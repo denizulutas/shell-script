@@ -17,9 +17,7 @@ At the end of this coding challenge, students will be able to;
 - Demonstrate their knowledge of algorithmic design principles by solving the problem effectively.
 
 ## Problem Statement
-
 Write a bash script program that creates a secret password with spesific lenth ( 8 ).
-
 
 - Expected Output:
 
